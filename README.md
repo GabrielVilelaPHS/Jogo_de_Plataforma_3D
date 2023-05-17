@@ -2,7 +2,7 @@
 
 [![Vídeo de Introdução](https://github.com/GabrielVilelaPHS/Jogo_de_Plataforma_3D/blob/main/foto%20jogo%20plataforma%203D.jpg)](https://youtu.be/6Kzi-s3kJPc)
 
-Criando um jogo simples em 3D, sendo o objetivo do jogo o personagens pegar itens nos cenários e desviar dos inimigos
+Criaçao de um jogo simples em 3D com o objetivo do jogo o personagens pegar itens nos cenários e desviar dos inimigos.
 
 ## Jogabilidade
 - (tecla A): mover nave para o lado esquerdo;
